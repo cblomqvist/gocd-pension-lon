@@ -1,6 +1,8 @@
 # gocd-pension-lon
 Lön före skatt.
 
+Rapporterar aktuell lön i katalogen "output".
+
 ## Allmän pensionsavgift
 Du betalar själv en allmän pensionsavgift på 7 procent av din lön och av ersättningar från social- och arbetslöshetsförsäkringarna (sjuk- och aktivitetsersättning är undantaget).
 Inbetalningen görs som en del av preliminärskatteavdraget. Avgiften betalas på inkomster upp till 8,07 inkomstbasbelopp. I samband med taxeringen får du ett avdrag på din skatt som motsvarar den allmänna pensionsavgiften. Det innebär i praktiken att du inte betalar någon avgift utan den allmänna pensionsavgiften finansieras med allmänna skatter.

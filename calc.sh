@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+set -e
+mkdir -p output
 inkomst=20000
-mkdir -p target
-echo ${inkomst} > target/lon.txt
+echo ${inkomst} > output/lon.txt

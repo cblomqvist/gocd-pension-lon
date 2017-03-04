@@ -1,4 +1,4 @@
-# gocd-pension-lon
+# lon
 Lön före skatt.
 
 Rapporterar aktuell lön i katalogen "output".
